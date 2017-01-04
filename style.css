@@ -1,0 +1,27 @@
+
+
+.accordion {
+  border: 1px solid #444;
+  margin-left: 60px;
+  width: 30%;
+  display: block;
+  text-align: center;
+}
+
+.headB {
+  display: none;
+}
+
+.headB a{
+  background-color: green;
+  display: block;
+  color: white;
+  padding: 25px;
+  /* display: none; */
+}
+
+.headA a{
+    display: block;
+    background-color: yellow;
+    padding: 25px;
+}
